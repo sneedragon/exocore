@@ -16,23 +16,8 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
-          },
-          {
-            "id": "3aa1ea3782e80e19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_daily/2024-10-31.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2024-10-31"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-10-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-10-31"
+              "title": "Backlinks"
             }
           },
           {
@@ -133,12 +117,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2024-10-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-10-31"
+              "title": "Outgoing links"
             }
           },
           {
@@ -159,11 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_daily/2024-10-31.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 2024-10-31"
+              "title": "Outline"
             }
           },
           {
@@ -195,10 +176,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3aa1ea3782e80e19",
+  "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "_daily/<% tp.date.now(\"YYYY-MM-DD\") %>.md",
     "_daily/2022-05-11.md",
-    "_daily/2024-10-31.md",
     "_articles/Exocore Installation Instructions.md",
     "_articles/Exocore Executive Summary.md",
     "_articles/Configure Exocore for Personal Use.md",

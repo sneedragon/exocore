@@ -6,4 +6,3 @@ tags:
 ---
 
 # <% tp.date.now("YYYY-MM-DD") %>
-![[exocore/data/user.yml]]
