@@ -6,6 +6,8 @@ tags: computers remilia
 
 # Notes on Remilia's New Internet
 
+> this is part of the placeholders but I think it is important.
+
 the vision
 
 um um u um  uh hhhhhh

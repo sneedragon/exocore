@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_daily/2024-11-01 - Setting up the exocore.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2024-11-01 - Setting up the exocore"
             }
           }
         ]
@@ -172,23 +172,27 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
-    "_wiki/L-Dopa.md",
-    "_wiki/Usufruct.md",
+    "_articles/Configure Exocore for Personal Use.md",
+    "_daily/2024-11-01 - Setting up the exocore.md",
     "_articles/Exocore Executive Summary.md",
+    "_articles/Exocore Installation Instructions.md",
+    "_articles/Set up a Custom Domain.md",
+    "_articles/table test.md",
     "_articles/Underpinnings of the Exocore.md",
     "_articles/Using your Exocore.md",
     "_articles/Writing with Exocore Syntax.md",
-    "_daily/2024-11-01 - Setting up the exocore.md",
-    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
-    "_journal/Jade post.md",
-    "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
+    "_journal/Notes on Remilia's New Internet.md",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_journal/The Exocore Workflow.md",
-    "_journal/Notes on Remilia's New Internet.md",
-    "_articles/table test.md",
-    "_articles/Exocore Installation Instructions.md",
-    "_articles/Set up a Custom Domain.md",
-    "_articles/Configure Exocore for Personal Use.md",
+    "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
+    "_journal/Jade post.md",
+    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
+    "_site/library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
+    "assets/favicon/android-chrome-192x192.png",
+    "images/girl-online.png",
+    "index.md",
+    "_wiki/L-Dopa.md",
+    "_wiki/Usufruct.md",
     "images/connection-graph.png",
     "images/desktop24nov1.png",
     "images/exocore.png",
@@ -197,12 +201,9 @@
     "images/guilded_image_a29150ea687b49022ad957eb5db2024b.png",
     "images/IMG_3869.JPG",
     "images/IMG_3969.JPG",
-    "images/IMG_4102.JPG",
-    "images/IMG_4091.JPG",
     "_articles/2024-11-01.md",
     "_daily/2022-05-11.md",
     "exocore/_templates/_article.md",
-    "index.md",
     "exocore/_sass/_777net.scss",
     "readme.md",
     "library/Against Intellectual Property_2.pdf",
@@ -212,7 +213,6 @@
     "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
     "exocore/_templates/_daily.md",
     "exocore/_templates/_scrapbook.md",
-    "exocore/_templates/_wiki.md",
-    "_daily/2022-10-29.md"
+    "exocore/_templates/_wiki.md"
   ]
 }
