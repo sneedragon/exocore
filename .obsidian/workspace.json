@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2022-05-11.md",
+                "file": "_daily/2024-11-01.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2022-05-11"
+              "title": "2024-11-01"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
-    "_daily/2024-11-01.md",
     "_daily/2022-05-11.md",
+    "_daily/2024-11-01.md",
     "_daily/<% tp.date.now(\"YYYY-MM-DD\") %>.md",
     "index.md",
     "assets/attachments/Screen Shot 2022-10-24 at 3.36.00 am.png",
