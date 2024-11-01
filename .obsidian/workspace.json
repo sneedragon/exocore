@@ -11,14 +11,12 @@
             "id": "68bdb0177a6320a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": true
+                "file": "assets/favicon/favicon-16x16.png"
               },
-              "icon": "lucide-file",
-              "title": "readme"
+              "icon": "lucide-image",
+              "title": "favicon-16x16"
             }
           }
         ]
@@ -172,17 +170,18 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
-    "index.md",
-    "readme.md",
-    "ring.md",
-    "assets/favicon/android-chrome-512x512.png",
-    "assets/favicon/apple-touch-icon.png",
-    "assets/favicon/favicon.svg",
-    "assets/favicon/favicon-16x16.png",
-    "assets/favicon/favicon-96x96.png",
-    "assets/favicon/favicon-32x32.png",
     "assets/favicon/web-app-manifest-512x512.png",
     "assets/favicon/web-app-manifest-192x192.png",
+    "assets/favicon/favicon-96x96.png",
+    "assets/favicon/favicon-32x32.png",
+    "assets/favicon/favicon.svg",
+    "assets/favicon/android-chrome-192x192.png",
+    "assets/favicon/apple-touch-icon.png",
+    "assets/favicon/favicon-16x16.png",
+    "readme.md",
+    "index.md",
+    "ring.md",
+    "assets/favicon/android-chrome-512x512.png",
     "assets/imgs/pfp.png",
     "assets/imgs/bg-yotsuba.gif",
     "_daily/2024-11-01 - Setting up the exocore.md",
@@ -213,7 +212,6 @@
     "library/Parascientific_Research_Council_Major_Thoughts.pdf",
     "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
     "exocore/_templates/_daily.md",
-    "exocore/_templates/_scrapbook.md",
-    "exocore/_templates/_wiki.md"
+    "exocore/_templates/_scrapbook.md"
   ]
 }
