@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Writing with Exocore Syntax.md",
+                "file": "_wiki/L-Dopa.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Writing with Exocore Syntax"
+              "title": "L-Dopa"
             }
           }
         ]
@@ -172,13 +172,23 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
-    "_articles/Using your Exocore.md",
+    "_wiki/Usufruct.md",
+    "_wiki/L-Dopa.md",
+    "_articles/Exocore Executive Summary.md",
     "_articles/Underpinnings of the Exocore.md",
+    "_articles/Using your Exocore.md",
+    "_articles/Writing with Exocore Syntax.md",
+    "_daily/2024-11-01 - Setting up the exocore.md",
+    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
+    "_journal/Jade post.md",
+    "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
+    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
+    "_journal/The Exocore Workflow.md",
+    "_journal/Notes on Remilia's New Internet.md",
     "_articles/table test.md",
     "_articles/Exocore Installation Instructions.md",
     "_articles/Set up a Custom Domain.md",
     "_articles/Configure Exocore for Personal Use.md",
-    "_articles/Exocore Executive Summary.md",
     "images/connection-graph.png",
     "images/desktop24nov1.png",
     "images/exocore.png",
@@ -189,14 +199,6 @@
     "images/IMG_3969.JPG",
     "images/IMG_4102.JPG",
     "images/IMG_4091.JPG",
-    "_journal/chinese-ginseng-chicken-tonic-soup.md",
-    "_daily/2024-11-01 - Setting up the exocore.md",
-    "_journal/korean-ginseng-chicken-soup.md",
-    "_journal/jade-post.md",
-    "_journal/exocore-workflow.md",
-    "_wiki/usufruct.md",
-    "_wiki/L-Dopa.md",
-    "_articles/Writing with Exocore Syntax.md",
     "_articles/2024-11-01.md",
     "_daily/2022-05-11.md",
     "exocore/_templates/_article.md",
@@ -211,7 +213,6 @@
     "exocore/_templates/_daily.md",
     "exocore/_templates/_scrapbook.md",
     "exocore/_templates/_wiki.md",
-    "_journal/newinternet.md",
     "_daily/2022-10-29.md"
   ]
 }
