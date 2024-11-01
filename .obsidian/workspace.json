@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "assets/favicon/favicon-16x16.png"
+                "file": "assets/imgs/card.png"
               },
               "icon": "lucide-image",
-              "title": "favicon-16x16"
+              "title": "card"
             }
           }
         ]
@@ -170,20 +170,20 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "images/caughtup.png",
+    "assets/imgs/icons/EXbPsHAWkAAR69e copy.png",
+    "assets/imgs/icons/articles.png",
+    "assets/imgs/icons/daily.gif",
+    "assets/favicon/favicon-16x16.png",
     "assets/favicon/web-app-manifest-512x512.png",
     "assets/favicon/web-app-manifest-192x192.png",
     "assets/favicon/favicon-96x96.png",
     "assets/favicon/favicon-32x32.png",
     "assets/favicon/favicon.svg",
     "assets/favicon/android-chrome-192x192.png",
-    "assets/favicon/apple-touch-icon.png",
-    "assets/favicon/favicon-16x16.png",
     "readme.md",
     "index.md",
     "ring.md",
-    "assets/favicon/android-chrome-512x512.png",
-    "assets/imgs/pfp.png",
-    "assets/imgs/bg-yotsuba.gif",
     "_daily/2024-11-01 - Setting up the exocore.md",
     "_articles/Configure Exocore for Personal Use.md",
     "_articles/Exocore Executive Summary.md",
