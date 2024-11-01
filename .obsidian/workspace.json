@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-11-01.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-11-01"
+              "title": "index"
             }
           }
         ]
@@ -61,16 +61,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "edda9e9b7c04de0d",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
             }
           },
           {
@@ -180,16 +170,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68bdb0177a6320a6",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
-    "_daily/2022-05-11.md",
-    "_daily/2024-11-01.md",
-    "_daily/<% tp.date.now(\"YYYY-MM-DD\") %>.md",
     "index.md",
-    "assets/attachments/Screen Shot 2022-10-24 at 3.36.00 am.png",
-    "assets/attachments/Pasted image 20220905145417.png",
+    "assets/attachments/Pasted image 20220905145302 1.png",
     "assets/attachments/Pasted image 20220905145302.png",
     "assets/attachments/Pasted image 20220905145243.png",
+    "_daily/2024-11-01.md",
+    "_daily/2022-05-11.md",
+    "_daily/<% tp.date.now(\"YYYY-MM-DD\") %>.md",
+    "assets/attachments/Screen Shot 2022-10-24 at 3.36.00 am.png",
+    "assets/attachments/Pasted image 20220905145417.png",
     "_articles/Set up a Custom Domain.md",
     "_articles/table test.md",
     "_articles/Configure Exocore for Personal Use.md",
@@ -214,7 +205,6 @@
     "images/brown-horse.png",
     "images/animegirl.png",
     "images/2022-05-13-17-48-12.png",
-    "images/2022-05-13-01-55-36.png",
     "_wiki/usufruct.md",
     "_wiki/L-Dopa.md",
     "_journal/newinternet.md",
