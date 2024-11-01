@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "assets/favicon/favicon-32x32.png"
+                "file": "assets/favicon/android-chrome-512x512.png"
               },
               "icon": "lucide-image",
-              "title": "favicon-32x32"
+              "title": "android-chrome-512x512"
             }
           }
         ]
@@ -170,17 +170,17 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
-    "assets/favicon/web-app-manifest-512x512.png",
-    "assets/favicon/web-app-manifest-192x192.png",
-    "assets/favicon/favicon-96x96.png",
+    "assets/favicon/apple-touch-icon.png",
     "assets/favicon/favicon.svg",
     "assets/favicon/favicon-16x16.png",
+    "assets/favicon/favicon-96x96.png",
+    "assets/favicon/favicon-32x32.png",
+    "assets/favicon/web-app-manifest-512x512.png",
+    "assets/favicon/web-app-manifest-192x192.png",
     "assets/imgs/pfp.png",
     "assets/imgs/bg-yotsuba.gif",
     "assets/imgs/card.png",
     "assets/imgs/bg-vellum.jpg",
-    "assets/imgs/bg-article-vellum.jpg",
-    "assets/imgs/icons/Windows-95.png",
     "index.md",
     "readme.md",
     "_daily/2024-11-01 - Setting up the exocore.md",
