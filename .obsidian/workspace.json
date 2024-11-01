@@ -11,12 +11,14 @@
             "id": "68bdb0177a6320a6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/favicon/android-chrome-512x512.png"
+                "file": "readme.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "android-chrome-512x512"
+              "icon": "lucide-file",
+              "title": "readme"
             }
           }
         ]
@@ -170,6 +172,10 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "index.md",
+    "readme.md",
+    "ring.md",
+    "assets/favicon/android-chrome-512x512.png",
     "assets/favicon/apple-touch-icon.png",
     "assets/favicon/favicon.svg",
     "assets/favicon/favicon-16x16.png",
@@ -179,10 +185,6 @@
     "assets/favicon/web-app-manifest-192x192.png",
     "assets/imgs/pfp.png",
     "assets/imgs/bg-yotsuba.gif",
-    "assets/imgs/card.png",
-    "assets/imgs/bg-vellum.jpg",
-    "index.md",
-    "readme.md",
     "_daily/2024-11-01 - Setting up the exocore.md",
     "_articles/Configure Exocore for Personal Use.md",
     "_articles/Exocore Executive Summary.md",
