@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2024-11-01 - Setting up the exocore.md",
+                "file": "_articles/Writing with Exocore Syntax.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-11-01 - Setting up the exocore"
+              "title": "Writing with Exocore Syntax"
             }
           }
         ]
@@ -172,28 +172,36 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
-    "_journal/exocore-workflow.md",
+    "_articles/Using your Exocore.md",
+    "_articles/Underpinnings of the Exocore.md",
+    "_articles/table test.md",
+    "_articles/Exocore Installation Instructions.md",
+    "_articles/Set up a Custom Domain.md",
+    "_articles/Configure Exocore for Personal Use.md",
+    "_articles/Exocore Executive Summary.md",
+    "images/connection-graph.png",
+    "images/desktop24nov1.png",
+    "images/exocore.png",
+    "images/FMz4mIWXEAMKws5.jpg",
+    "images/guilded_image_08c671f803737fb4add252910ada0f7a.png",
+    "images/guilded_image_a29150ea687b49022ad957eb5db2024b.png",
+    "images/IMG_3869.JPG",
+    "images/IMG_3969.JPG",
+    "images/IMG_4102.JPG",
+    "images/IMG_4091.JPG",
     "_journal/chinese-ginseng-chicken-tonic-soup.md",
     "_daily/2024-11-01 - Setting up the exocore.md",
-    "images/desktop24nov1.png",
-    "_articles/Set up a Custom Domain.md",
-    "_articles/table test.md",
+    "_journal/korean-ginseng-chicken-soup.md",
+    "_journal/jade-post.md",
+    "_journal/exocore-workflow.md",
+    "_wiki/usufruct.md",
+    "_wiki/L-Dopa.md",
     "_articles/Writing with Exocore Syntax.md",
-    "_articles/Underpinnings of the Exocore.md",
-    "_articles/Configure Exocore for Personal Use.md",
     "_articles/2024-11-01.md",
     "_daily/2022-05-11.md",
-    "_articles/Exocore Executive Summary.md",
     "exocore/_templates/_article.md",
     "index.md",
     "exocore/_sass/_777net.scss",
-    "assets/attachments/Pasted image 20220905145302 1.png",
-    "assets/attachments/Pasted image 20220905145302.png",
-    "assets/attachments/Pasted image 20220905145243.png",
-    "assets/attachments/Screen Shot 2022-10-24 at 3.36.00 am.png",
-    "assets/attachments/Pasted image 20220905145417.png",
-    "_articles/Using your Exocore.md",
-    "_articles/Exocore Installation Instructions.md",
     "readme.md",
     "library/Against Intellectual Property_2.pdf",
     "library/Money-for-nothing-Virtual-Worlds-and-Virtual-Economies.pdf",
@@ -203,15 +211,7 @@
     "exocore/_templates/_daily.md",
     "exocore/_templates/_scrapbook.md",
     "exocore/_templates/_wiki.md",
-    "images/border-effect.png",
-    "images/caughtup.png",
-    "images/brown-horse.png",
-    "images/animegirl.png",
-    "_wiki/usufruct.md",
-    "_wiki/L-Dopa.md",
     "_journal/newinternet.md",
-    "_daily/2022-10-29.md",
-    "_daily/2022-10-27.md",
-    "_daily/2022-10-25.md"
+    "_daily/2022-10-29.md"
   ]
 }

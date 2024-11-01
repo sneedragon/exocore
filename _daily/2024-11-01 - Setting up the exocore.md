@@ -23,4 +23,4 @@ However, now everything works perfectly fine and I am quite happy about it, espe
 The only thing worth complaining now, is the fact that my provider of choice does not offer any option to set the nameserver of a subdomain, so as of writing this you will still see that rather ugly *.netlify.app* domain instead of *[core.sevensevenseven.net]*.
 
 Also I ended up customizing my OS for fun. Have a look if you want.
-![customized desktop](desktop24nov1.png)
+![customized desktop](/images/desktop24nov1.png)
