@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_articles/Exocore Installation Instructions.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Exocore Installation Instructions"
             }
           }
         ]
@@ -182,12 +182,35 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "_articles/Exocore Executive Summary.md",
+    "_articles/Configure Exocore for Personal Use.md",
+    "_journal/chinese-ginseng-chicken-tonic-soup.md",
+    "_journal/exocore-workflow.md",
+    "index.md",
+    "readme.md",
+    "library/Against Intellectual Property_2.pdf",
+    "library/Money-for-nothing-Virtual-Worlds-and-Virtual-Economies.pdf",
+    "library/Virtual-Worlds-market-and society-on-cyberian-frontier.pdf",
+    "library/Parascientific_Research_Council_Major_Thoughts.pdf",
+    "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
+    "exocore/_templates/_daily.md",
+    "exocore/_templates/_scrapbook.md",
+    "exocore/_templates/_wiki.md",
+    "images/border-effect.png",
+    "images/caughtup.png",
+    "images/brown-horse.png",
+    "images/animegirl.png",
+    "images/2022-05-13-17-48-12.png",
+    "images/2022-05-13-01-55-36.png",
+    "images/2022-05-13-17-46-10.png",
+    "images/800px-Some_results_of_recent_anthropological_exploration_in_Peru_BHL23999360.jpg",
+    "_wiki/usufruct.md",
+    "_wiki/L-Dopa.md",
+    "_journal/newinternet.md",
     "_daily/2024-11-01.md",
     "_daily/<% tp.date.now(\"YYYY-MM-DD\") %>.md",
     "_daily/2022-05-11.md",
     "_articles/Exocore Installation Instructions.md",
-    "_articles/Exocore Executive Summary.md",
-    "_articles/Configure Exocore for Personal Use.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_articles/table test.md",
