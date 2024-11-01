@@ -11,10 +11,14 @@
             "id": "68bdb0177a6320a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -178,6 +182,7 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "_daily/2024-11-01.md",
     "_daily/<% tp.date.now(\"YYYY-MM-DD\") %>.md",
     "_daily/2022-05-11.md",
     "_articles/Exocore Installation Instructions.md",
