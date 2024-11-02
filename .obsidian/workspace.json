@@ -11,12 +11,14 @@
             "id": "68bdb0177a6320a6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "_site/library/Money-for-nothing-Virtual-Worlds-and-Virtual-Economies.pdf"
+                "file": "_journal/2024-11-02 - Habits.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-file-text",
-              "title": "Money-for-nothing-Virtual-Worlds-and-Virtual-Economies"
+              "icon": "lucide-file",
+              "title": "2024-11-02 - Habits"
             }
           }
         ]
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2022-05-11.md",
+                "file": "_journal/2024-11-02 - Habits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2022-05-11"
+              "title": "Backlinks for 2024-11-02 - Habits"
             }
           },
           {
@@ -170,9 +172,19 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
-    "_daily/2024-11-02 - Habits.md",
+    "_journal/2024-11-01 - Setting up the exocore.md",
+    "_journal/2024-11-02 - Habits.md",
+    "_wiki/L-Dopa.md",
+    "_wiki/Usufruct.md",
+    "_site/library/Against Intellectual Property_2.pdf",
+    "images/win96cover.png",
+    "images/win96cover.png.crdownload",
+    "images/0.jpg",
+    "images/0.jpg.crdownload",
+    "images/donquixotebook.png",
+    "images/donquixotebook.png.crdownload",
+    "_site/library/Money-for-nothing-Virtual-Worlds-and-Virtual-Economies.pdf",
     "_journal/Notes on Remilia's New Internet.md",
-    "_daily/2024-11-01 - Setting up the exocore.md",
     "images/desktop24nov1.png",
     "images/chernoff-faces.png",
     "images/animegirl.png",
@@ -180,9 +192,6 @@
     "assets/imgs/icons/pp,840x830-pad,1000x1000,f8f8f8.png",
     "assets/imgs/icons/wiki.png",
     "assets/imgs/icons/journal.png",
-    "assets/imgs/icons/icon1.gif",
-    "assets/imgs/icons/flat,750x,075,f-pad,750x1000,f8f8f8.u4.png",
-    "assets/imgs/icons/EXbPsHAWkAAR69e copy 3.png",
     "readme.md",
     "index.md",
     "ring.md",
@@ -200,8 +209,6 @@
     "_journal/Jade post.md",
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_site/library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
-    "_wiki/L-Dopa.md",
-    "_wiki/Usufruct.md",
     "_articles/2024-11-01.md",
     "_daily/2022-05-11.md",
     "exocore/_templates/_article.md",
@@ -209,8 +216,6 @@
     "library/Against Intellectual Property_2.pdf",
     "library/Money-for-nothing-Virtual-Worlds-and-Virtual-Economies.pdf",
     "library/Virtual-Worlds-market-and society-on-cyberian-frontier.pdf",
-    "library/Parascientific_Research_Council_Major_Thoughts.pdf",
-    "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
     "exocore/_templates/_daily.md"
   ]
 }

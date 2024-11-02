@@ -20,7 +20,7 @@ It was none of my config files, settings, or anything of that sort. Netlify simp
 
 However, now everything works perfectly fine and I am quite happy about it, especially after I found this great "*heaven*"-theme in *styles.scss*.
 
-The only thing worth complaining now, is the fact that my provider of choice does not offer any option to set the nameserver of a subdomain, so as of writing this you will still see that rather ugly *.netlify.app* domain instead of *[core.sevensevenseven.net]*.
+The only thing worth complaining now, is the fact that my provider of choice does not offer any option to set the nameserver of a subdomain, so as of writing this you will still see that rather ugly *.netlify.app* domain instead of *[core.sevensevenseven.net](https://core.sevensevenseven.net)*.
 
 Also I ended up customizing my OS for fun. Have a look if you want.
 ![customized desktop](/images/desktop24nov1.png)
