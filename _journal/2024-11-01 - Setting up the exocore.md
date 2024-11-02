@@ -11,7 +11,9 @@ Today I finally got around to setting up an exocore. I had way more trouble than
 When I tried following the tutorial and edited various things like *exocore/data/user.yml*, none of the changes would be reflected in the site. 
 
 Since the exocore package hasn't been updated in a while and Charlie said that it was "on hold", I figured that maybe some default configurations I had to change weren't in the tutorial 
+
 - *especially when you consider that the link to the tutorial isn't correct anymore on some pages(!)* - 
+
 and spent hours opening configs and scanning them for anything suspicious, constantly opening the same ones after I've checked everything, like when you open an empty fridge over and over, because the result doesn't satisfy you. I was going insane.
 
 I even went as far as searching for other exocores on github to compare the settings and ended up forking a customized one when I finally found the issue.
