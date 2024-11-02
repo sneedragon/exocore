@@ -11,14 +11,12 @@
             "id": "68bdb0177a6320a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "_daily/2024-11-02.md",
-                "mode": "source",
-                "source": true
+                "file": "_site/library/Money-for-nothing-Virtual-Worlds-and-Virtual-Economies.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2024-11-02"
+              "icon": "lucide-file-text",
+              "title": "Money-for-nothing-Virtual-Worlds-and-Virtual-Economies"
             }
           }
         ]
@@ -172,8 +170,10 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "_daily/2024-11-02 - Habits.md",
+    "_journal/Notes on Remilia's New Internet.md",
+    "_daily/2024-11-01 - Setting up the exocore.md",
     "images/desktop24nov1.png",
-    "_daily/2024-11-02.md",
     "images/chernoff-faces.png",
     "images/animegirl.png",
     "images/border-effect.png",
@@ -183,11 +183,9 @@
     "assets/imgs/icons/icon1.gif",
     "assets/imgs/icons/flat,750x,075,f-pad,750x1000,f8f8f8.u4.png",
     "assets/imgs/icons/EXbPsHAWkAAR69e copy 3.png",
-    "assets/imgs/icons/EXbPsHAWkAAR69e copy.png",
     "readme.md",
     "index.md",
     "ring.md",
-    "_daily/2024-11-01 - Setting up the exocore.md",
     "_articles/Configure Exocore for Personal Use.md",
     "_articles/Exocore Executive Summary.md",
     "_articles/Exocore Installation Instructions.md",
@@ -196,7 +194,6 @@
     "_articles/Underpinnings of the Exocore.md",
     "_articles/Using your Exocore.md",
     "_articles/Writing with Exocore Syntax.md",
-    "_journal/Notes on Remilia's New Internet.md",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_journal/The Exocore Workflow.md",
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
