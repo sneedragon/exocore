@@ -11,12 +11,14 @@
             "id": "68bdb0177a6320a6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/imgs/card.png"
+                "file": "_daily/2024-11-02.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "card"
+              "icon": "lucide-file",
+              "title": "2024-11-02"
             }
           }
         ]
@@ -170,17 +172,18 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
-    "images/caughtup.png",
+    "images/desktop24nov1.png",
+    "_daily/2024-11-02.md",
+    "images/chernoff-faces.png",
+    "images/animegirl.png",
+    "images/border-effect.png",
+    "assets/imgs/icons/pp,840x830-pad,1000x1000,f8f8f8.png",
+    "assets/imgs/icons/wiki.png",
+    "assets/imgs/icons/journal.png",
+    "assets/imgs/icons/icon1.gif",
+    "assets/imgs/icons/flat,750x,075,f-pad,750x1000,f8f8f8.u4.png",
+    "assets/imgs/icons/EXbPsHAWkAAR69e copy 3.png",
     "assets/imgs/icons/EXbPsHAWkAAR69e copy.png",
-    "assets/imgs/icons/articles.png",
-    "assets/imgs/icons/daily.gif",
-    "assets/favicon/favicon-16x16.png",
-    "assets/favicon/web-app-manifest-512x512.png",
-    "assets/favicon/web-app-manifest-192x192.png",
-    "assets/favicon/favicon-96x96.png",
-    "assets/favicon/favicon-32x32.png",
-    "assets/favicon/favicon.svg",
-    "assets/favicon/android-chrome-192x192.png",
     "readme.md",
     "index.md",
     "ring.md",
@@ -211,7 +214,6 @@
     "library/Virtual-Worlds-market-and society-on-cyberian-frontier.pdf",
     "library/Parascientific_Research_Council_Major_Thoughts.pdf",
     "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
-    "exocore/_templates/_daily.md",
-    "exocore/_templates/_scrapbook.md"
+    "exocore/_templates/_daily.md"
   ]
 }
