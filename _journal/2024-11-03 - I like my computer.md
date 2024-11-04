@@ -14,12 +14,12 @@ tags: tech, computer, linux, windows
 A few weeks ago I installed Linux on my computer.
 While there were a few good reasons, like it being supposedly better for working with Godot (which I decided to make Project Remiworld in, after RPGMaker has turned out to be more of a burden than a crutch) ultimately it was just spontaneous and on a whim.
 
-This was not the first time, as over the years I must have tried it out at least 3 times in total. So far I had tried out Linux Mint (Debian Editon)[¹] multiple times, failed on plain Arch because I couldn't get my Sound to work among other things, failed to install Gentoo because I didn't have LAN, had constant *krashes* on KDE Neon after using it for almost a month(!), etc etc.
-Every time I ended up going back to Windows. Especially the releases of modified versions  of it, that rip out Microsofts Telemetry and whatever janky, broken garbage their outsourced indian "engineers" manage to cobble together, starting with the [Ameliorated Windows Project/](https://ameliorated.io/) up to my favorite [RevisionOS](https://revi.cc/)[²] - which I still install on any friends or relatives PC whenever I have to play tech support for them.
+This was not the first time, as over the years I must have tried it out at least 3 times in total. So far I had tried out Linux Mint (Debian Editon)[^1] multiple times, failed on plain Arch because I couldn't get my Sound to work among other things, failed to install Gentoo because I didn't have LAN, had constant *krashes* on KDE Neon after using it for almost a month(!), etc etc.
+Every time I ended up going back to Windows. Especially the releases of modified versions  of it, that rip out Microsofts Telemetry and whatever janky, broken garbage their outsourced indian "engineers" manage to cobble together, starting with the [Ameliorated Windows Project/](https://ameliorated.io/) up to my favorite [RevisionOS](https://revi.cc/)[^2] - which I still install on any friends or relatives PC whenever I have to play tech support for them.
 
-[¹]: I liked [Linux Mint](https://abriefhistory.org/?p=774), but I have a dislike for Ubuntu, so I chose the Debian Version. Unfortunately a lot of packages are out of date, which also ironically makes it especially hard for a beginner to follow guides and such.
+[^1]: I liked [Linux Mint](https://abriefhistory.org/?p=774), but I have a dislike for Ubuntu, so I chose the Debian Version. Unfortunately a lot of packages are out of date, which also ironically makes it especially hard for a beginner to follow guides and such.
 
-[²]: They don't offer an .ISO anymore - only the post-install playbook-script.
+[^2]: They don't offer an .ISO anymore - only the post-install playbook-script.
 	Luckily I still have the latest .ISO they published.
 
 ## I use Arch, btw.
