@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/2024-11-03 - I like my computer.md",
+                "file": "readme.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-11-03 - I like my computer"
+              "title": "readme"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/2024-11-03 - I like my computer.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-11-03 - I like my computer"
+              "title": "Backlinks for readme"
             }
           },
           {
@@ -171,17 +171,17 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "_journal/2024-11-03 - I like my computer.md",
-    "_daily/2024-11-04.md",
     "_journal/2024-11-04 - Headache.md",
+    "_journal/2024-11-01 - Setting up the exocore.md",
+    "_journal/2024-11-02 - Habits.md",
+    "conflict-files-obsidian-git.md",
+    "_daily/2024-11-04.md",
     "Conflict files.md",
     "images/redremcobg.png",
     "images/xfce.svg",
     "images/win95pc.png",
     "images/ilovemyputer.png",
-    "_journal/2024-11-02 - Habits.md",
-    "_journal/2024-11-01 - Setting up the exocore.md",
     "_wiki/L-Dopa.md",
     "_wiki/Usufruct.md",
     "_site/library/Against Intellectual Property_2.pdf",
