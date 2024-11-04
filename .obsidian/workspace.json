@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/2024-11-02 - Habits.md",
+                "file": "_daily/2024-11-04.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-11-02 - Habits"
+              "title": "2024-11-04"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
-    "_journal/2024-11-01 - Setting up the exocore.md",
     "_journal/2024-11-02 - Habits.md",
+    "_daily/2024-11-04.md",
+    "_journal/2024-11-01 - Setting up the exocore.md",
     "_wiki/L-Dopa.md",
     "_wiki/Usufruct.md",
     "_site/library/Against Intellectual Property_2.pdf",
