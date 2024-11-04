@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "9a6d7b65dfe24a65",
+        "id": "9e3994e204e6dc11",
         "type": "tabs",
         "children": [
           {
-            "id": "68bdb0177a6320a6",
+            "id": "1ce14ef978d7e41f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_journal/2024-11-02 - Habits.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-02 - Habits"
+            }
+          },
+          {
+            "id": "5e1e3c335cf04063",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "_journal/2024-11-03 - I like my computer.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "2024-11-03 - I like my computer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,18 +185,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68bdb0177a6320a6",
+  "active": "5e1e3c335cf04063",
   "lastOpenFiles": [
-    "_daily/2024-11-04.md",
-    "_journal/2024-11-03 - I like my computer.md",
-    "Conflict files.md",
-    "conflict-files-obsidian-git.md",
     "images/redremcobg.png",
-    "images/xfce.svg",
-    "images/win95pc.png",
-    "images/ilovemyputer.png",
-    "_journal/2024-11-02 - Habits.md",
     "_journal/2024-11-01 - Setting up the exocore.md",
+    "_journal/2024-11-02 - Habits.md",
+    "_journal/2024-11-03 - I like my computer.md",
+    "images/win95pc.png",
+    "images/win95pc.png.crdownload",
+    "images/xfce.svg",
+    "images/Unconfirmed 546437.crdownload",
+    "images/ilovemyputer.png",
+    "images/ilovemyputer.png.crdownload",
+    "_journal/2024-11 null.md",
     "_wiki/L-Dopa.md",
     "_wiki/Usufruct.md",
     "_site/library/Against Intellectual Property_2.pdf",
@@ -195,6 +212,7 @@
     "images/desktop24nov1.png",
     "images/chernoff-faces.png",
     "images/animegirl.png",
+    "images/border-effect.png",
     "readme.md",
     "index.md",
     "ring.md",
@@ -212,9 +230,8 @@
     "_journal/Jade post.md",
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_site/library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
-    "exocore/_sass/_777net.scss",
-    "library/Against Intellectual Property_2.pdf",
-    "library/Money-for-nothing-Virtual-Worlds-and-Virtual-Economies.pdf",
-    "library/Virtual-Worlds-market-and society-on-cyberian-frontier.pdf"
+    "_articles/2024-11-01.md",
+    "_daily/2022-05-11.md",
+    "exocore/_sass/_777net.scss"
   ]
 }
