@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "2024-11-04"
             }
+          },
+          {
+            "id": "0d55101d04428927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conflict files.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Conflict files"
+            }
+          },
+          {
+            "id": "c915042fc77e4f0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,10 +199,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68bdb0177a6320a6",
+  "active": "c915042fc77e4f0b",
   "lastOpenFiles": [
-    "_journal/2024-11-02 - Habits.md",
+    "Conflict files.md",
+    "conflict-files-obsidian-git.md",
     "_daily/2024-11-04.md",
+    "images/xfce.svg",
+    "images/win95pc.png",
+    "images/ilovemyputer.png",
+    "_journal/2024-11-03 - I like my computer.md",
+    "_journal/2024-11-02 - Habits.md",
     "_journal/2024-11-01 - Setting up the exocore.md",
     "_wiki/L-Dopa.md",
     "_wiki/Usufruct.md",
@@ -190,9 +225,6 @@
     "images/chernoff-faces.png",
     "images/animegirl.png",
     "images/border-effect.png",
-    "assets/imgs/icons/pp,840x830-pad,1000x1000,f8f8f8.png",
-    "assets/imgs/icons/wiki.png",
-    "assets/imgs/icons/journal.png",
     "readme.md",
     "index.md",
     "ring.md",
@@ -211,12 +243,9 @@
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_site/library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
     "_articles/2024-11-01.md",
-    "_daily/2022-05-11.md",
-    "exocore/_templates/_article.md",
     "exocore/_sass/_777net.scss",
     "library/Against Intellectual Property_2.pdf",
     "library/Money-for-nothing-Virtual-Worlds-and-Virtual-Economies.pdf",
-    "library/Virtual-Worlds-market-and society-on-cyberian-frontier.pdf",
-    "exocore/_templates/_daily.md"
+    "library/Virtual-Worlds-market-and society-on-cyberian-frontier.pdf"
   ]
 }
