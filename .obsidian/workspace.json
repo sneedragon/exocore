@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/2024-11-03 - I like my computer.md",
+                "file": "_daily/2024-11-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-03 - I like my computer"
+              "title": "2024-11-04"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/2024-11-03 - I like my computer.md",
+                "file": "_daily/2024-11-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-11-03 - I like my computer"
+              "title": "Backlinks for 2024-11-04"
             }
           },
           {
@@ -171,8 +171,8 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
-    "_daily/2024-11-04.md",
     "_journal/2024-11-03 - I like my computer.md",
+    "_daily/2024-11-04.md",
     "Conflict files.md",
     "conflict-files-obsidian-git.md",
     "images/redremcobg.png",
