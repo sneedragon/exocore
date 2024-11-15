@@ -11,14 +11,12 @@
             "id": "68bdb0177a6320a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_daily/2024-11-15.md",
-                "mode": "source",
-                "source": true
+                "file": "images/redremcobg.png"
               },
-              "icon": "lucide-file",
-              "title": "2024-11-15"
+              "icon": "lucide-image",
+              "title": "redremcobg"
             }
           }
         ]
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2024-11-15.md",
+                "file": "images/redremcobg.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-11-15"
+              "title": "Backlinks for redremcobg"
             }
           },
           {
@@ -171,6 +169,17 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "images/red-writing2.png",
+    "images/redremcobg.png",
+    "images/roman-room.jpg",
+    "images/Screen Shot 2022-03-03 at 8.04.47 am.png",
+    "images/study-monk.jpg",
+    "images/water.png",
+    "images/urbit-sigils.png",
+    "images/win96cover.png",
+    "images/win95pc.png",
+    "images/steel-nobg.png",
+    "images/study-monk.png",
     "readme.md",
     "_daily/2024-11-15.md",
     "_journal/2024-11-03 - I like my computer.md",
@@ -180,24 +189,14 @@
     "conflict-files-obsidian-git.md",
     "_daily/2024-11-04.md",
     "Conflict files.md",
-    "images/redremcobg.png",
-    "images/xfce.svg",
-    "images/win95pc.png",
-    "images/ilovemyputer.png",
     "_wiki/L-Dopa.md",
     "_wiki/Usufruct.md",
     "_site/library/Against Intellectual Property_2.pdf",
-    "images/win96cover.png",
     "images/win96cover.png.crdownload",
-    "images/0.jpg",
     "images/0.jpg.crdownload",
-    "images/donquixotebook.png",
     "images/donquixotebook.png.crdownload",
     "_site/library/Money-for-nothing-Virtual-Worlds-and-Virtual-Economies.pdf",
     "_journal/Notes on Remilia's New Internet.md",
-    "images/desktop24nov1.png",
-    "images/chernoff-faces.png",
-    "images/animegirl.png",
     "index.md",
     "ring.md",
     "_articles/Configure Exocore for Personal Use.md",
@@ -211,7 +210,6 @@
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_journal/The Exocore Workflow.md",
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
-    "_journal/Jade post.md",
     "_site/library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
     "exocore/_sass/_777net.scss",
     "library/Against Intellectual Property_2.pdf",
