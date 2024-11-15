@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "_daily/2024-11-15.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "2024-11-15"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "_daily/2024-11-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for readme"
+              "title": "Backlinks for 2024-11-15"
             }
           },
           {
@@ -171,6 +171,8 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "readme.md",
+    "_daily/2024-11-15.md",
     "_journal/2024-11-03 - I like my computer.md",
     "_journal/2024-11-04 - Headache.md",
     "_journal/2024-11-01 - Setting up the exocore.md",
@@ -196,7 +198,6 @@
     "images/desktop24nov1.png",
     "images/chernoff-faces.png",
     "images/animegirl.png",
-    "readme.md",
     "index.md",
     "ring.md",
     "_articles/Configure Exocore for Personal Use.md",
@@ -211,7 +212,6 @@
     "_journal/The Exocore Workflow.md",
     "_journal/Samgyetang Ginseng Chicken Soup (Korean Style).md",
     "_journal/Jade post.md",
-    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_site/library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
     "exocore/_sass/_777net.scss",
     "library/Against Intellectual Property_2.pdf",
