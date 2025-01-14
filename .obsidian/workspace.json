@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2025-01-14.md",
+                "file": "_journal/2025-01-14 - Not dead yet.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-01-14"
+              "title": "2025-01-14 - Not dead yet"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2025-01-14.md",
+                "file": "_journal/2025-01-14 - Not dead yet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-14"
+              "title": "Backlinks for 2025-01-14 - Not dead yet"
             }
           },
           {
@@ -186,9 +186,12 @@
   },
   "active": "5e94c5715f5e6235",
   "lastOpenFiles": [
-    "_daily/2025-01-14.md",
-    "_journal/2024-11-04 - Headache.md",
+    "images/win96coverenchant.png",
     "_journal/2024-12-25 - Merry Christmas.md",
+    "_journal/2025-01-14 - Not dead yet.md",
+    "_journal/2024-11-02 - Habits.md",
+    "_journal/2024-11-03 - I like my computer.md",
+    "_journal/2024-11-04 - Headache.md",
     "_daily/2024-12-25.md",
     "images/red-writing2.png",
     "images/redremcobg.png",
@@ -202,9 +205,7 @@
     "images/steel-nobg.png",
     "readme.md",
     "_daily/2024-11-15.md",
-    "_journal/2024-11-03 - I like my computer.md",
     "_journal/2024-11-01 - Setting up the exocore.md",
-    "_journal/2024-11-02 - Habits.md",
     "conflict-files-obsidian-git.md",
     "_daily/2024-11-04.md",
     "Conflict files.md",
@@ -226,7 +227,6 @@
     "_articles/Underpinnings of the Exocore.md",
     "_articles/Using your Exocore.md",
     "_articles/Writing with Exocore Syntax.md",
-    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_site/library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
     "exocore/_sass/_777net.scss",
     "library/Against Intellectual Property_2.pdf",
