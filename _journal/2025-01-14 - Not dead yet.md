@@ -2,10 +2,12 @@
 published: true
 subtitle: 
 date: 2025-01-14
-tags: 
+tags: health
 ---
 
 # 2025-01-14 - Not dead yet
+
+![Windows96 - Enchanted Instrumentals and Whispers](/images/win96coverenchant.png)
 
 ## Return
 

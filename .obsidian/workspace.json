@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9a6d7b65dfe24a65",
+        "id": "c53f69d762947894",
         "type": "tabs",
         "children": [
           {
-            "id": "b4f1d1054c7a92fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_journal/2024-12-25 - Merry Christmas.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2024-12-25 - Merry Christmas"
-            }
-          },
-          {
-            "id": "5e94c5715f5e6235",
+            "id": "8b226d8ff209ce46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "_journal/2025-01-14 - Not dead yet.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "2025-01-14 - Not dead yet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,9 +137,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "_journal/2025-01-14 - Not dead yet.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-01-14 - Not dead yet"
             }
           },
           {
@@ -167,7 +154,8 @@
               "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,14 +172,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e94c5715f5e6235",
+  "active": "8b226d8ff209ce46",
   "lastOpenFiles": [
-    "images/win96coverenchant.png",
-    "_journal/2024-12-25 - Merry Christmas.md",
+    "_daily/2025-01-14.md",
     "_journal/2025-01-14 - Not dead yet.md",
-    "_journal/2024-11-02 - Habits.md",
     "_journal/2024-11-03 - I like my computer.md",
     "_journal/2024-11-04 - Headache.md",
+    "_journal/2024-12-25 - Merry Christmas.md",
+    "_journal/2024-11-01 - Setting up the exocore.md",
+    "_journal/2024-11-02 - Habits.md",
+    "images/win96coverenchant.png",
     "_daily/2024-12-25.md",
     "images/red-writing2.png",
     "images/redremcobg.png",
@@ -202,10 +192,8 @@
     "images/urbit-sigils.png",
     "images/win96cover.png",
     "images/win95pc.png",
-    "images/steel-nobg.png",
     "readme.md",
     "_daily/2024-11-15.md",
-    "_journal/2024-11-01 - Setting up the exocore.md",
     "conflict-files-obsidian-git.md",
     "_daily/2024-11-04.md",
     "Conflict files.md",
