@@ -45,7 +45,7 @@ Now, a month later, I am much better, but still not recovered. I still cough up 
 
 In the meantime I will just continue, or rather resume, working on the game and myself. Although the game almost feels cursed. Every time I even think of working on it, I get hurt somehow.
 
-[https://www.youtube.com/watch?v=1X2TwPb3y10]
+[Here's the music to the cover posted above]([https://www.youtube.com/watch?v=1X2TwPb3y10)
 
 
 
