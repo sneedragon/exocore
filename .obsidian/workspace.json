@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/2025-01-14 - Not dead yet.md",
+                "file": "_daily/2025-01-17.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-01-14 - Not dead yet"
+              "title": "2025-01-17"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/2025-01-14 - Not dead yet.md"
+                "file": "_daily/2025-01-17.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-14 - Not dead yet"
+              "title": "Outline of 2025-01-17"
             }
           },
           {
@@ -174,8 +174,9 @@
   },
   "active": "8b226d8ff209ce46",
   "lastOpenFiles": [
-    "_daily/2025-01-14.md",
     "_journal/2025-01-14 - Not dead yet.md",
+    "_daily/2025-01-17.md",
+    "_daily/2025-01-14.md",
     "_journal/2024-11-03 - I like my computer.md",
     "_journal/2024-11-04 - Headache.md",
     "_journal/2024-12-25 - Merry Christmas.md",
@@ -214,7 +215,6 @@
     "_articles/table test.md",
     "_articles/Underpinnings of the Exocore.md",
     "_articles/Using your Exocore.md",
-    "_articles/Writing with Exocore Syntax.md",
     "_site/library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
     "exocore/_sass/_777net.scss",
     "library/Against Intellectual Property_2.pdf",
