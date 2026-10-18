@@ -18,8 +18,35 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.8.7"
             }
+          },
+          {
+            "id": "dfcd14b23e6b02ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:/home/sneed/agent/work/marketing/pressemitteilung.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "pressemitteilung"
+            }
+          },
+          {
+            "id": "58604cc1363860e4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +66,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -137,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2025-01-17.md",
+                "file": "file:/home/sneed/agent/work/marketing/pressemitteilung.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-17"
+              "title": "Outline"
             }
           },
           {
@@ -165,6 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -174,7 +204,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "dfcd14b23e6b02ad",
   "lastOpenFiles": [
     "_daily/2025-03-01.md",
     "_journal/2025-01-14 - Not dead yet.md",

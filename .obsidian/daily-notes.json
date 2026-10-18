@@ -1,5 +1,4 @@
 {
   "folder": "_daily",
-  "autorun": true,
   "template": "exocore/_templates/_daily"
 }
