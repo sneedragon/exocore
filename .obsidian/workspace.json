@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "file:/home/sneed/claude-grok-queue/AUFTRAG-2026-10-19.md",
+                "file": "file:/home/sneed/claude-grok-queue/KOSSERT-BRIEFING.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "AUFTRAG-2026-10-19"
+              "title": "KOSSERT-BRIEFING"
             }
           }
         ]
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "file:/home/sneed/claude-grok-queue/AUFTRAG-2026-10-19.md",
+                "file": "file:/home/sneed/claude-grok-queue/KOSSERT-BRIEFING.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,6 +181,7 @@
   },
   "active": "0d61aa9cbdbcedf1",
   "lastOpenFiles": [
+    "file:/home/sneed/claude-grok-queue/AUFTRAG-2026-10-19.md",
     "file:/home/sneed/agent/work/marketing/pressemitteilung.md",
     "_daily/2025-03-01.md",
     "_journal/2025-01-14 - Not dead yet.md",
@@ -221,7 +222,6 @@
     "_articles/Exocore Executive Summary.md",
     "_articles/Exocore Installation Instructions.md",
     "_articles/Set up a Custom Domain.md",
-    "_articles/table test.md",
     "_site/library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
     "exocore/_sass/_777net.scss",
     "library/Against Intellectual Property_2.pdf",
